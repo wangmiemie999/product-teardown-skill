@@ -1,0 +1,4 @@
+interface:
+  display_name: "产品六层拆解"
+  short_description: "从市场、商业、用户、技术、模型与数据六层系统拆解产品"
+  default_prompt: "使用 $product-teardown 深度拆解这个产品，并区分事实、推断与未知。"
